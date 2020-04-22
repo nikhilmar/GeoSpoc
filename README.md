@@ -1,4 +1,4 @@
-# my-project
+# GeoSpoc
 
 > A Vue.js project
 
